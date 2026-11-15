@@ -1,76 +1,151 @@
-<h1 align="center">Doaa Ben Marzouk</h1>
 
-<h3 align="center">DevOps & Cloud Engineering Student · PFE 2027</h3>
+<div align="center">
 
-<p align="center">
-  Azure · Kubernetes · Terraform · CI/CD · Platform Engineering · AI Agents
+# 👋 Hi, I'm Doaa Ben Marzouk
+
+### 🎓 IT Engineering Student | ☁️ Cloud & DevOps Enthusiast
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Cloud+Computing+Enthusiast;Azure+%7C+Kubernetes+%7C+Terraform;DevOps+%26+CI%2FCD+Automation;Building+and+Learning+Every+Day" />
 </p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/doaa-ben-marzouk"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:doaa.benmarzouk@enicar.ucar.tn"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=doaabenmarzouk&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+</p>
+
+</div>
+
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/96183163/189264372-67c43c7f-6623-4ad5-8920-a04954778056.gif"/>
+
+## 👩‍💻 About Me
+
+- 🎓 IT Engineering Student at **ENICarthage, Tunisia**.
+- ☁️ Passionate about **Cloud Computing & DevOps Engineering**.
+- 🚀 Building and automating cloud-native infrastructures.
+- ⚙️ Exploring Kubernetes, CI/CD and Infrastructure as Code.
+- 📊 Interested in Monitoring, Observability and FinOps.
+- 🤖 Exploring AI-powered DevOps solutions.
+- 🎯 Seeking a **PFE 2027 opportunity**.
+
+<br clear="right"/>
+
+---
+
+## 🌐 Let's Connect
+
+<p align="left">
+<a href="https://linkedin.com/in/doua-ben-marzouk">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:doaa.benmarzouk@enicar.ucar.tn">
+<img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
 
 ---
 
-### 👩‍💻 About me
+## ☁️ Cloud & Infrastructure
 
-Third-year Computer Engineering student at **ENICarthage (Tunisia)**, graduating in June 2027. I build cloud-native infrastructure and automated delivery pipelines, and I combine them with AI agents (RAG, LangGraph) to make platforms smarter.
+<p>
+<img src="https://skillicons.dev/icons?i=azure,terraform,ansible" />
+</p>
 
-- 🎯 **Looking for a 6-month PFE internship (2027)** in DevOps, Cloud or Platform Engineering
-- ☁️ Hands-on with **AKS, Terraform, Ansible, GitHub Actions and Jenkins**
-- 🤖 Interested in **AI-powered DevOps** (multi-agent systems, observability)
+## ⚙️ DevOps & CI/CD
 
-### 🔨 Currently building
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,helm,githubactions,gitlab,jenkins,git,bash" />
+</p>
 
-**Self-service cloud platform on Azure with GitLab CI**: infrastructure as code, secured pipelines (secret scanning, image and IaC scanning) and GitOps deployment on AKS.
+## 📊 Monitoring & Observability
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=prometheus,grafana" />
+</p>
 
-### 🚀 Featured projects
+## 💻 Programming & Development
 
-| Project | What I built | Stack |
-|---|---|---|
-| **Internal Developer Platform** | One-click deployment of containerized apps on a private cloud, with automated provisioning and monitoring | K3s, VMware, Terraform, Ansible, GitHub Actions, Prometheus, Grafana |
-| **Azure Migration & FinOps** | Migrated microservices to AKS with modular Terraform, secured access and cost monitoring | Azure, AKS, Terraform, ACR, Key Vault, Kubecost |
-| [**SnapTrend**](https://github.com/doaabenmarzouk/SnapTrend) | Jenkins CI/CD pipeline with quality and security scans, deployed on Kubernetes | Angular, Jenkins, SonarQube, Trivy, Docker, K3s |
-| **Origin** | Multi-agent AI platform with human-in-the-loop validation, RAG pipeline and MCP gateway | LangGraph, LangChain, Qdrant, Kubernetes |
-| **AI DevSecOps Agent** | RAG agent that analyzes Kubernetes/Docker configurations and suggests security fixes | Python, LangChain, FAISS, FastAPI |
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,spring,fastapi,mysql,postgres,linux" />
+</p>
 
----
+## 🤖 AI & Machine Learning
 
-### 🛠️ Tech stack
-
-**Cloud & IaC**
-
-![Azure](https://skillicons.dev/icons?i=azure,terraform,ansible)
-
-**DevOps & CI/CD**
-
-![DevOps](https://skillicons.dev/icons?i=docker,kubernetes,helm,githubactions,gitlab,jenkins,git,linux,bash)
-
-**Monitoring**
-
-![Monitoring](https://skillicons.dev/icons?i=prometheus,grafana)
-
-**AI**
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-Qdrant%20%7C%20FAISS-DC244C?style=for-the-badge)
-
-**Development**
-
-![Dev](https://skillicons.dev/icons?i=python,fastapi,java,spring,dotnet,angular,vue,postgres,mysql)
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-AI%20Applications-blueviolet?style=for-the-badge"/>
+</p>
 
 ---
 
-### 🎓 Experience & certification
+## 🚀 Featured Projects
 
-- **Full-Stack Developer Intern, NeoLedge MEA** (Aug–Sep 2026): AI citizen assistant (FastAPI, LangChain, Qdrant) and a citizen mail platform (ASP.NET Core, Vue.js)
-- **System Administration Intern, Tunisie TradeNet** (Jul 2025): Zabbix monitoring on 2 VMs, Linux and VMware administration
-- **Certification:** [Generative AI with Diffusion Models, NVIDIA (Nov 2026)](https://learn.nvidia.com/certificates?id=TauXuWfURMOBYNutOVkopw)
+<table>
+<tr>
+<td width="50%">
+
+### ☁️ Azure Migration & FinOps
+
+Cloud infrastructure migration and governance.
+
+**Tech:** Azure, AKS, Terraform, RBAC, Prometheus, Grafana, Kubecost.
+
+</td>
+<td width="50%">
+
+### 🤖 AI DevOps Agent
+
+AI-powered assistant for Kubernetes and Docker configuration analysis.
+
+**Tech:** Python, LangChain, RAG, Docker, Kubernetes.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ⚙️ SnapTrend
+
+Web application with automated CI/CD pipeline.
+
+**Tech:** Angular, Jenkins, SonarQube, Docker.
+
+</td>
+<td width="50%">
+
+### 📬 Bureau d'Ordre Digital
+
+Digital citizen correspondence management platform.
+
+**Tech:** Vue.js, .NET, SQL Server, AI.
+
+</td>
+</tr>
+</table>
 
 ---
 
-<p align="center"><i>Building, automating and learning, one deployment at a time.</i></p>
+## 📈 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=doaabenmarzouk&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doaabenmarzouk&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+<img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=doaabenmarzouk&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Automate. Innovate. Deploy. Repeat." 🚀
+
+**Thanks for visiting my profile!**
+
+</div>
+
