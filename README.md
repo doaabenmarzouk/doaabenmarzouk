@@ -1,80 +1,76 @@
 
 <div align="center">
 
-# 👋 Hi, I'm Doaa Ben Marzouk
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Doaa%20Ben%20Marzouk&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Cloud%20%7C%20DevOps%20%7C%20AI%20Enthusiast&descSize=17&descAlignY=58&animation=fadeIn" width="100%"/>
 
-### 🎓 IT Engineering Student | ☁️ Cloud & DevOps Enthusiast
+<h3>👋 Welcome to my GitHub profile!</h3>
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Cloud+Computing+Enthusiast;Azure+%7C+Kubernetes+%7C+Terraform;DevOps+%26+CI%2FCD+Automation;Building+and+Learning+Every+Day" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=IT+Engineering+Student+%40+ENICarthage;Passionate+about+Cloud+%26+DevOps;Building+and+Automating+Cloud+Infrastructure;Exploring+AI-powered+DevOps+Solutions" />
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=doaabenmarzouk&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+  <a href="https://linkedin.com/in/doua-ben-marzouk">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:doaa.benmarzouk@enicar.ucar.tn">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=doaabenmarzouk&style=flat-square&color=38BDF8&label=PROFILE+VIEWS"/>
 </p>
 
 </div>
 
-<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/96183163/189264372-67c43c7f-6623-4ad5-8920-a04954778056.gif"/>
+---
 
-## 👩‍💻 About Me
+## ✨ About Me
 
-- 🎓 IT Engineering Student at **ENICarthage, Tunisia**.
-- ☁️ Passionate about **Cloud Computing & DevOps Engineering**.
-- 🚀 Building and automating cloud-native infrastructures.
-- ⚙️ Exploring Kubernetes, CI/CD and Infrastructure as Code.
-- 📊 Interested in Monitoring, Observability and FinOps.
-- 🤖 Exploring AI-powered DevOps solutions.
-- 🎯 Seeking a **PFE 2027 opportunity**.
+<img align="right" width="220" src="https://user-images.githubusercontent.com/96183163/189264372-67c43c7f-6623-4ad5-8920-a04954778056.gif"/>
+
+🎓 **IT Engineering Student** at ENICarthage, Tunisia.
+
+☁️ Interested in **Cloud Computing, DevOps and Cloud Infrastructure**.
+
+⚙️ Exploring automation, CI/CD pipelines and Kubernetes orchestration.
+
+📊 Interested in Observability, Monitoring and FinOps.
+
+🤖 Exploring the intersection of Artificial Intelligence and DevOps.
+
+🎯 Currently preparing for a **PFE 2027 opportunity**.
 
 <br clear="right"/>
 
 ---
 
-## 🌐 Let's Connect
+## 🧰 Technologies & Tools
 
-<p align="left">
-<a href="https://linkedin.com/in/doua-ben-marzouk">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:doaa.benmarzouk@enicar.ucar.tn">
-<img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
+<div align="center">
 
----
+### ☁️ Cloud & Infrastructure
 
-## ☁️ Cloud & Infrastructure
+<img src="https://skillicons.dev/icons?i=azure,terraform,ansible&theme=dark" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=azure,terraform,ansible" />
-</p>
+### ⚙️ DevOps & Automation
 
-## ⚙️ DevOps & CI/CD
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,helm,githubactions,gitlab,jenkins,git,bash&theme=dark" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,helm,githubactions,gitlab,jenkins,git,bash" />
-</p>
+### 📈 Monitoring & Observability
 
-## 📊 Monitoring & Observability
+<img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=prometheus,grafana" />
-</p>
+### 💻 Programming & Development
 
-## 💻 Programming & Development
+<img src="https://skillicons.dev/icons?i=python,java,javascript,spring,fastapi,mysql,postgres,linux&theme=dark" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,javascript,spring,fastapi,mysql,postgres,linux" />
-</p>
+### 🤖 AI & Machine Learning
 
-## 🤖 AI & Machine Learning
+<img src="https://skillicons.dev/icons?i=pytorch&theme=dark" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch" />
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
-<img src="https://img.shields.io/badge/RAG-AI%20Applications-blueviolet?style=for-the-badge"/>
-</p>
+<img src="https://img.shields.io/badge/RAG-AI%20Applications-5B4BDB?style=for-the-badge"/>
+
+</div>
 
 ---
 
@@ -82,42 +78,67 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### ☁️ Azure Migration & FinOps
+<h3>☁️ Azure Migration & FinOps</h3>
 
-Cloud infrastructure migration and governance.
+<p>
+Cloud infrastructure migration, governance and cost optimization.
+</p>
 
-**Tech:** Azure, AKS, Terraform, RBAC, Prometheus, Grafana, Kubecost.
+<p>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+</p>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🤖 AI DevOps Agent
+<h3>🤖 AI DevOps Agent</h3>
 
-AI-powered assistant for Kubernetes and Docker configuration analysis.
+<p>
+An AI-powered assistant for analyzing Kubernetes and Docker configurations using RAG.
+</p>
 
-**Tech:** Python, LangChain, RAG, Docker, Kubernetes.
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-6C63FF?style=flat-square"/>
+</p>
 
 </td>
 </tr>
+
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### ⚙️ SnapTrend
+<h3>⚙️ SnapTrend</h3>
 
-Web application with automated CI/CD pipeline.
+<p>
+Web application with an automated CI/CD workflow and containerization.
+</p>
 
-**Tech:** Angular, Jenkins, SonarQube, Docker.
+<p>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+</p>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📬 Bureau d'Ordre Digital
+<h3>📬 Bureau d'Ordre Digital</h3>
 
-Digital citizen correspondence management platform.
+<p>
+Digital platform for citizen correspondence management with AI assistance.
+</p>
 
-**Tech:** Vue.js, .NET, SQL Server, AI.
+<p>
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+</p>
 
 </td>
 </tr>
@@ -125,17 +146,17 @@ Digital citizen correspondence management platform.
 
 ---
 
-## 📈 GitHub Analytics
+## 📊 GitHub Overview
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=doaabenmarzouk&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=doaabenmarzouk&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doaabenmarzouk&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doaabenmarzouk&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br/><br/>
 
-<img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=doaabenmarzouk&theme=tokyonight&hide_border=true" />
+<img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=doaabenmarzouk&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -143,9 +164,12 @@ Digital citizen correspondence management platform.
 
 <div align="center">
 
-### 💡 "Automate. Innovate. Deploy. Repeat." 🚀
+### 💙 Always Learning. Always Building. Always Improving.
 
-**Thanks for visiting my profile!**
+*Turning ideas into infrastructure, and infrastructure into innovation.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" width="100%"/>
 
 </div>
+
 
